@@ -1,4 +1,4 @@
-# mips
+# mips #vhdl 
 Mips microprocessor code
 Vhdl code
 
